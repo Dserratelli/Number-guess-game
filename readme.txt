@@ -1,0 +1,1 @@
+A game made with javascript to guess a number 1 trhough 20 with a highscore tracker.
